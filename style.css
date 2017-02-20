@@ -1,0 +1,97 @@
+body {
+    clear:both;
+  font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+  background-color: #fddea5;
+  font-size: 14px;
+  color:#543f32;
+}
+
+.ba{
+    background-image: url("img/tanukun.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding:400px 0px 0px 0px;
+}
+
+.container {
+    clear:both;
+}
+
+ul li {
+    color: white;
+    display: inline-block;
+   padding:10px;
+}
+
+li:hover {
+    color:white;
+    
+}
+
+.header{
+    padding-bottom: 40px;
+    background-color: white;
+}
+  
+.header-left{
+    float:left;
+    padding-top: 300px;
+    padding-left: 40px;
+    
+}
+ 
+.header-right {
+    float:right;
+}
+.name {
+    color:white;
+    font-weight: bold;
+    font-size: 40px;
+}
+img:hover{
+    opacity: 0.1;
+}
+
+.suzuka {color:white;
+    
+}
+
+.aboutp {
+    padding-top: 50px;
+}
+
+.worksp{
+    padding-top: 50px;
+}
+
+.medama {
+    padding-top: 10px
+}
+
+.form-group {
+    width:75%;
+    padding-left: 20%;
+}
+textarea {
+    height: 7em;
+}
+
+.center-black {
+    width:10%;
+    color:#543f32;
+}
+
+
+.footer {
+    padding-top: 30px;
+    padding-left: 47%;
+}
+#social-icon a { 
+                 margin: 10px; 
+                 padding-right: 15px;
+                 display: block;
+                 float: left;
+}
+
+#social-icon a:hover i { color: #bcaf68; }
